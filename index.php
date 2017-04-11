@@ -9,7 +9,6 @@
 		<p> I am a surace scientist who enjoys materials characterization for a living</p>
 		<p> I am married and have two Jack Rusell Terriers</p>
 		<p> Belows is a picture of one them</p>
-		<img src="">
 	</body>
 	</head>
 </html>
